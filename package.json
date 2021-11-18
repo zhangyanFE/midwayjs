@@ -39,7 +39,7 @@
     "ci": "npm run cov",
     "build": "midway-bin build -c",
     "check": "luckyeye",
-    "deploy": "midway-bin deploy"
+    "deploy": "sh deploy.sh"
   },
   "midway-bin-clean": [
     ".vscode/.tsbuildinfo",
