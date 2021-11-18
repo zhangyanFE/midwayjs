@@ -1,8 +1,8 @@
 #!/bin/bash
 
-git pull
+# git pull
 
-cnpm install
+# cnpm install
 
 npm run build
 
