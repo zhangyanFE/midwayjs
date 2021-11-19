@@ -1,10 +1,12 @@
 #!/bin/bash
 
-# git pull
+git pull
 
 # cnpm install
 
-# npm run build
+npm run build
+
+npm stop
 
 npm start
 
